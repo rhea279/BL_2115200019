@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\Array2D.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\Array2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\Array2D.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\Array2D.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\Array2D.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\bin\Debug\net6.0\Array2D.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\bin\Debug\net6.0\Array2D.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\bin\Debug\net6.0\Array2D.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\bin\Debug\net6.0\Array2D.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\bin\Debug\net6.0\Array2D.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\Array2D.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\refint\Array2D.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\Array2D.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\Array2D.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Array2D\obj\Debug\net6.0\ref\Array2D.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll

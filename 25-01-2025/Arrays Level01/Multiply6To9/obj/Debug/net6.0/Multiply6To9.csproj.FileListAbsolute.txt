@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\bin\Debug\net6.0\Multiply6To9.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\bin\Debug\net6.0\Multiply6To9.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\bin\Debug\net6.0\Multiply6To9.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\bin\Debug\net6.0\Multiply6To9.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\bin\Debug\net6.0\Multiply6To9.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\Multiply6To9.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\Multiply6To9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\Multiply6To9.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\Multiply6To9.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\Multiply6To9.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\Multiply6To9.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\refint\Multiply6To9.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\Multiply6To9.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\Multiply6To9.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiply6To9\obj\Debug\net6.0\ref\Multiply6To9.dll

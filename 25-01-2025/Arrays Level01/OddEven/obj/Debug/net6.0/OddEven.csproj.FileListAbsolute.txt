@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\bin\Debug\net6.0\OddEven.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\bin\Debug\net6.0\OddEven.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\bin\Debug\net6.0\OddEven.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\bin\Debug\net6.0\OddEven.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\bin\Debug\net6.0\OddEven.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\OddEven.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\OddEven.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\refint\OddEven.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\OddEven.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\OddEven.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\OddEven\obj\Debug\net6.0\ref\OddEven.dll

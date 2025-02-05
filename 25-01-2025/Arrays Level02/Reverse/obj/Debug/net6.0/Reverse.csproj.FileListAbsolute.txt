@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\bin\Debug\net6.0\Reverse.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\bin\Debug\net6.0\Reverse.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\bin\Debug\net6.0\Reverse.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\bin\Debug\net6.0\Reverse.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\bin\Debug\net6.0\Reverse.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\Reverse.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\Reverse.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\refint\Reverse.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\Reverse.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\Reverse.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Reverse\obj\Debug\net6.0\ref\Reverse.dll

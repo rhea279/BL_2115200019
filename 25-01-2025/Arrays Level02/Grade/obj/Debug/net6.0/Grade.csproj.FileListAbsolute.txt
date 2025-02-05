@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\bin\Debug\net6.0\Grade.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\bin\Debug\net6.0\Grade.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\bin\Debug\net6.0\Grade.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\bin\Debug\net6.0\Grade.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\bin\Debug\net6.0\Grade.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\Grade.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\Grade.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\Grade.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\Grade.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\Grade.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\refint\Grade.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\Grade.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\Grade.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Grade\obj\Debug\net6.0\ref\Grade.dll

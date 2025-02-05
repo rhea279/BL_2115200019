@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\BMI2.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\BMI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\BMI2.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\BMI2.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\BMI2.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\bin\Debug\net6.0\BMI2.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\bin\Debug\net6.0\BMI2.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\bin\Debug\net6.0\BMI2.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\bin\Debug\net6.0\BMI2.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\bin\Debug\net6.0\BMI2.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\BMI2.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\refint\BMI2.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\BMI2.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\BMI2.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\BMI2\obj\Debug\net6.0\ref\BMI2.dll

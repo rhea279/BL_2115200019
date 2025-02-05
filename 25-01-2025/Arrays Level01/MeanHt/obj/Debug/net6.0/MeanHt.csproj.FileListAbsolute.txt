@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\bin\Debug\net6.0\MeanHt.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\bin\Debug\net6.0\MeanHt.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\bin\Debug\net6.0\MeanHt.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\bin\Debug\net6.0\MeanHt.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\bin\Debug\net6.0\MeanHt.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\MeanHt.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\MeanHt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\MeanHt.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\MeanHt.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\MeanHt.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\MeanHt.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\refint\MeanHt.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\MeanHt.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\MeanHt.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\MeanHt\obj\Debug\net6.0\ref\MeanHt.dll

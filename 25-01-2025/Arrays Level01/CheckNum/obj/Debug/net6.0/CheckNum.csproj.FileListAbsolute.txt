@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\CheckNum.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\CheckNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\CheckNum.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\CheckNum.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\CheckNum.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\bin\Debug\net6.0\CheckNum.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\bin\Debug\net6.0\CheckNum.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\bin\Debug\net6.0\CheckNum.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\bin\Debug\net6.0\CheckNum.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\bin\Debug\net6.0\CheckNum.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\CheckNum.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\refint\CheckNum.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\CheckNum.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\CheckNum.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\CheckNum\obj\Debug\net6.0\ref\CheckNum.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\bin\Debug\net6.0\Multiplication.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\bin\Debug\net6.0\Multiplication.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\bin\Debug\net6.0\Multiplication.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\bin\Debug\net6.0\Multiplication.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\bin\Debug\net6.0\Multiplication.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\Multiplication.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\Multiplication.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\Multiplication.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\Multiplication.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\refint\Multiplication.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\Multiplication.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\Multiplication.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Multiplication\obj\Debug\net6.0\ref\Multiplication.dll

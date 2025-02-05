@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\bin\Debug\net6.0\Factors.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\bin\Debug\net6.0\Factors.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\bin\Debug\net6.0\Factors.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\bin\Debug\net6.0\Factors.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\bin\Debug\net6.0\Factors.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\Factors.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\Factors.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\Factors.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\Factors.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\Factors.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\refint\Factors.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\Factors.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\Factors.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level01\Factors\obj\Debug\net6.0\ref\Factors.dll

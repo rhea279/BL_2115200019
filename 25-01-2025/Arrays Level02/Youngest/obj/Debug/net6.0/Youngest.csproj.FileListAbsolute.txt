@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\Youngest.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\Youngest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\Youngest.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\Youngest.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\Youngest.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\bin\Debug\net6.0\Youngest.exe
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\bin\Debug\net6.0\Youngest.deps.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\bin\Debug\net6.0\Youngest.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\bin\Debug\net6.0\Youngest.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\bin\Debug\net6.0\Youngest.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\Youngest.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\refint\Youngest.dll
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\Youngest.pdb
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\Youngest.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\25-01-2025\Arrays Level02\Youngest\obj\Debug\net6.0\ref\Youngest.dll
