@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\bin\Debug\net6.0\Q11.exe
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\bin\Debug\net6.0\Q11.deps.json
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\bin\Debug\net6.0\Q11.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\bin\Debug\net6.0\Q11.dll
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\bin\Debug\net6.0\Q11.pdb
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\Q11.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\Q11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\Q11.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\Q11.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\Q11.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\Q11.dll
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\refint\Q11.dll
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\Q11.pdb
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\Q11.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\Assignment 03\Q11\obj\Debug\net6.0\ref\Q11.dll
