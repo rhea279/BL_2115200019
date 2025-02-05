@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\bin\Debug\net6.0\BankAccount.exe
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\bin\Debug\net6.0\BankAccount.deps.json
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\bin\Debug\net6.0\BankAccount.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\bin\Debug\net6.0\BankAccount.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\bin\Debug\net6.0\BankAccount.pdb
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\BankAccount.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\BankAccount.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\refint\BankAccount.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\BankAccount.pdb
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\BankAccount.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Access Modifier\BankAccount\obj\Debug\net6.0\ref\BankAccount.dll

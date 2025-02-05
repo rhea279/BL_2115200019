@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\Product.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\Product.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\Product.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\Product.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\bin\Debug\net6.0\Product.exe
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\bin\Debug\net6.0\Product.deps.json
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\bin\Debug\net6.0\Product.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\bin\Debug\net6.0\Product.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\bin\Debug\net6.0\Product.pdb
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\Product.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\refint\Product.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\Product.pdb
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\Product.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Product\obj\Debug\net6.0\ref\Product.dll

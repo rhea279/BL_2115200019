@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\bin\Debug\net6.0\Vehicle.exe
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\bin\Debug\net6.0\Vehicle.deps.json
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\bin\Debug\net6.0\Vehicle.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\bin\Debug\net6.0\Vehicle.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\bin\Debug\net6.0\Vehicle.pdb
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\Vehicle.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\Vehicle.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\Vehicle.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\refint\Vehicle.dll
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\Vehicle.pdb
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\Vehicle.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\02-02-2025\Instance Vs Class Variables and Methods\Vehicle\obj\Debug\net6.0\ref\Vehicle.dll
