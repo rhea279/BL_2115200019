@@ -1,0 +1,15 @@
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\bin\Debug\net6.0\Program03.exe
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\bin\Debug\net6.0\Program03.deps.json
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\bin\Debug\net6.0\Program03.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\bin\Debug\net6.0\Program03.dll
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\bin\Debug\net6.0\Program03.pdb
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\Program03.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\Program03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\Program03.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\Program03.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\Program03.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\Program03.dll
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\refint\Program03.dll
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\Program03.pdb
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\Program03.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\19-01-2025\Program03\obj\Debug\net6.0\ref\Program03.dll
