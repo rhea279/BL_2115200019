@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Vehicle\Vehicle\bin\Debug\Vehicle.exe.config
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Vehicle\Vehicle\bin\Debug\Vehicle.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Vehicle\Vehicle\bin\Debug\Vehicle.pdb
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Vehicle\Vehicle\obj\Debug\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Vehicle\Vehicle\obj\Debug\Vehicle.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Vehicle\Vehicle\obj\Debug\Vehicle.pdb

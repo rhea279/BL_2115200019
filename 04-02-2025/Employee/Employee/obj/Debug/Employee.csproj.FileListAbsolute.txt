@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Employee\Employee\obj\Debug\Employee.pdb

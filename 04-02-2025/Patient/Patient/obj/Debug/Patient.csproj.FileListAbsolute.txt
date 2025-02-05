@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Patient\Patient\bin\Debug\Patient.exe.config
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Patient\Patient\bin\Debug\Patient.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Patient\Patient\bin\Debug\Patient.pdb
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Patient\Patient\obj\Debug\Patient.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Patient\Patient\obj\Debug\Patient.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Patient\Patient\obj\Debug\Patient.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Patient\Patient\obj\Debug\Patient.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Product\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Product\Product\bin\Debug\Product.exe.config
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Product\Product\bin\Debug\Product.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Product\Product\bin\Debug\Product.pdb
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Product\Product\obj\Debug\Product.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Product\Product\obj\Debug\Product.pdb

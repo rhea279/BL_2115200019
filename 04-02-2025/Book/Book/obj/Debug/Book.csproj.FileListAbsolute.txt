@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Book\Book\bin\Debug\Book.exe.config
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Book\Book\bin\Debug\Book.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Book\Book\bin\Debug\Book.pdb
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Book\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Book\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Book\Book\obj\Debug\Book.exe
+C:\Users\asus\OneDrive\Desktop\04-02-2025\Book\Book\obj\Debug\Book.pdb

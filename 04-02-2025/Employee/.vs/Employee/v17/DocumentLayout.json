@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\04-02-2025\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1420C-1A08-4665-9F1A-F953028F325E}|Employee\\Employee.csproj|c:\\users\\asus\\onedrive\\desktop\\04-02-2025\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1420C-1A08-4665-9F1A-F953028F325E}|Employee\\Employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\04-02-2025\\Employee\\Employee\\Program.cs",
+              "RelativeDocumentMoniker": "Employee\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\04-02-2025\\Employee\\Employee\\Program.cs",
+              "RelativeToolTip": "Employee\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAswHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:20:24.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
