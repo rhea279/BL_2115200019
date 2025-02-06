@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Company_Departments\Company_Departments\obj\Debug\Company_Departments.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Company_Departments\Company_Departments\obj\Debug\Company_Departments.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Company_Departments\Company_Departments\bin\Debug\Company_Departments.exe.config
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Company_Departments\Company_Departments\bin\Debug\Company_Departments.exe
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Company_Departments\Company_Departments\bin\Debug\Company_Departments.pdb
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Company_Departments\Company_Departments\obj\Debug\Company_Departments.exe
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Company_Departments\Company_Departments\obj\Debug\Company_Departments.pdb

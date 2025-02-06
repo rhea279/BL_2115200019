@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Bank_AccountHolders\Bank_AccountHolders\obj\Debug\Bank_AccountHolders.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Bank_AccountHolders\Bank_AccountHolders\obj\Debug\Bank_AccountHolders.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Bank_AccountHolders\Bank_AccountHolders\bin\Debug\Bank_AccountHolders.exe.config
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Bank_AccountHolders\Bank_AccountHolders\bin\Debug\Bank_AccountHolders.exe
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Bank_AccountHolders\Bank_AccountHolders\bin\Debug\Bank_AccountHolders.pdb
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Bank_AccountHolders\Bank_AccountHolders\obj\Debug\Bank_AccountHolders.exe
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Bank_AccountHolders\Bank_AccountHolders\obj\Debug\Bank_AccountHolders.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Hospital_Doctors_Patients\Hospital_Doctors_Patients\bin\Debug\Hospital_Doctors_Patients.exe.config
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Hospital_Doctors_Patients\Hospital_Doctors_Patients\bin\Debug\Hospital_Doctors_Patients.exe
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Hospital_Doctors_Patients\Hospital_Doctors_Patients\bin\Debug\Hospital_Doctors_Patients.pdb
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Hospital_Doctors_Patients\Hospital_Doctors_Patients\obj\Debug\Hospital_Doctors_Patients.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Hospital_Doctors_Patients\Hospital_Doctors_Patients\obj\Debug\Hospital_Doctors_Patients.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Hospital_Doctors_Patients\Hospital_Doctors_Patients\obj\Debug\Hospital_Doctors_Patients.exe
+C:\Users\asus\OneDrive\Desktop\05-02-2025\Hospital_Doctors_Patients\Hospital_Doctors_Patients\obj\Debug\Hospital_Doctors_Patients.pdb

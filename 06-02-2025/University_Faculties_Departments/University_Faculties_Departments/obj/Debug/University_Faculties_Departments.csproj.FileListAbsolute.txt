@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\05-02-2025\University_Faculties_Departments\University_Faculties_Departments\bin\Debug\University_Faculties_Departments.exe.config
+C:\Users\asus\OneDrive\Desktop\05-02-2025\University_Faculties_Departments\University_Faculties_Departments\bin\Debug\University_Faculties_Departments.exe
+C:\Users\asus\OneDrive\Desktop\05-02-2025\University_Faculties_Departments\University_Faculties_Departments\bin\Debug\University_Faculties_Departments.pdb
+C:\Users\asus\OneDrive\Desktop\05-02-2025\University_Faculties_Departments\University_Faculties_Departments\obj\Debug\University_Faculties_Departments.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\05-02-2025\University_Faculties_Departments\University_Faculties_Departments\obj\Debug\University_Faculties_Departments.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\05-02-2025\University_Faculties_Departments\University_Faculties_Departments\obj\Debug\University_Faculties_Departments.exe
+C:\Users\asus\OneDrive\Desktop\05-02-2025\University_Faculties_Departments\University_Faculties_Departments\obj\Debug\University_Faculties_Departments.pdb
