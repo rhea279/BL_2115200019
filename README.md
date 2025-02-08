@@ -1,1 +1,1 @@
-"***Inheritance Assignment" 
+**Inheritance Assignment** 
