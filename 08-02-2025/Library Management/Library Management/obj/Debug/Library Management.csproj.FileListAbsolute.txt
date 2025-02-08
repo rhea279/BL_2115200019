@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Library Management\Library Management\bin\Debug\Library Management.exe.config
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Library Management\Library Management\bin\Debug\Library Management.exe
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Library Management\Library Management\bin\Debug\Library Management.pdb
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Library Management\Library Management\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Library Management\Library Management\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Library Management\Library Management\obj\Debug\Library Management.exe
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Library Management\Library Management\obj\Debug\Library Management.pdb

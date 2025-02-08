@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Smart Home Devices\Smart Home Devices\bin\Debug\Smart Home Devices.exe.config
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Smart Home Devices\Smart Home Devices\bin\Debug\Smart Home Devices.exe
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Smart Home Devices\Smart Home Devices\bin\Debug\Smart Home Devices.pdb
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Smart Home Devices\Smart Home Devices\obj\Debug\Smart Home Devices.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Smart Home Devices\Smart Home Devices\obj\Debug\Smart Home Devices.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Smart Home Devices\Smart Home Devices\obj\Debug\Smart Home Devices.exe
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Smart Home Devices\Smart Home Devices\obj\Debug\Smart Home Devices.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb

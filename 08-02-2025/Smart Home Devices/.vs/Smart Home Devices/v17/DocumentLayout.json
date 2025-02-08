@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\08-02-2025\\Smart Home Devices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F37A61-FE9A-4B2D-A6D1-B23010D52792}|Smart Home Devices\\Smart Home Devices.csproj|c:\\users\\asus\\onedrive\\desktop\\08-02-2025\\smart home devices\\smart home devices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F37A61-FE9A-4B2D-A6D1-B23010D52792}|Smart Home Devices\\Smart Home Devices.csproj|solutionrelative:smart home devices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\08-02-2025\\Smart Home Devices\\Smart Home Devices\\Program.cs",
+              "RelativeDocumentMoniker": "Smart Home Devices\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\08-02-2025\\Smart Home Devices\\Smart Home Devices\\Program.cs",
+              "RelativeToolTip": "Smart Home Devices\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:36:11.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

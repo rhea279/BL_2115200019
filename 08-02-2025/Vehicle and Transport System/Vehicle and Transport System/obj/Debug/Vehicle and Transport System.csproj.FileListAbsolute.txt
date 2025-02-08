@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Vehicle and Transport System\Vehicle and Transport System\obj\Debug\Vehicle and Transport System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Vehicle and Transport System\Vehicle and Transport System\obj\Debug\Vehicle and Transport System.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Vehicle and Transport System\Vehicle and Transport System\bin\Debug\Vehicle and Transport System.exe.config
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Vehicle and Transport System\Vehicle and Transport System\bin\Debug\Vehicle and Transport System.exe
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Vehicle and Transport System\Vehicle and Transport System\bin\Debug\Vehicle and Transport System.pdb
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Vehicle and Transport System\Vehicle and Transport System\obj\Debug\Vehicle and Transport System.exe
+C:\Users\asus\OneDrive\Desktop\08-02-2025\Vehicle and Transport System\Vehicle and Transport System\obj\Debug\Vehicle and Transport System.pdb
