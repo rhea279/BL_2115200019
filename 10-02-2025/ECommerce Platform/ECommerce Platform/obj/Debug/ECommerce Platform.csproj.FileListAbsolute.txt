@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\10-02-2025\ECommerce Platform\ECommerce Platform\bin\Debug\ECommerce Platform.exe.config
+C:\Users\asus\OneDrive\Desktop\10-02-2025\ECommerce Platform\ECommerce Platform\bin\Debug\ECommerce Platform.exe
+C:\Users\asus\OneDrive\Desktop\10-02-2025\ECommerce Platform\ECommerce Platform\bin\Debug\ECommerce Platform.pdb
+C:\Users\asus\OneDrive\Desktop\10-02-2025\ECommerce Platform\ECommerce Platform\obj\Debug\ECommerce Platform.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\10-02-2025\ECommerce Platform\ECommerce Platform\obj\Debug\ECommerce Platform.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\10-02-2025\ECommerce Platform\ECommerce Platform\obj\Debug\ECommerce Platform.exe
+C:\Users\asus\OneDrive\Desktop\10-02-2025\ECommerce Platform\ECommerce Platform\obj\Debug\ECommerce Platform.pdb

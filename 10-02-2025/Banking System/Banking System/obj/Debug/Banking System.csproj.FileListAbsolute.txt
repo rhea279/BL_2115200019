@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\10-02-2025\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\asus\OneDrive\Desktop\10-02-2025\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\Users\asus\OneDrive\Desktop\10-02-2025\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\Users\asus\OneDrive\Desktop\10-02-2025\Banking System\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\10-02-2025\Banking System\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\10-02-2025\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\Users\asus\OneDrive\Desktop\10-02-2025\Banking System\Banking System\obj\Debug\Banking System.pdb
