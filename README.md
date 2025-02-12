@@ -13,3 +13,4 @@
 - **Object Oriented Design Principles**
 - **Inheritance**
 - **Encapsulation, Polymorphism, Interface and Abstract Class**
+- **LinkedList**
