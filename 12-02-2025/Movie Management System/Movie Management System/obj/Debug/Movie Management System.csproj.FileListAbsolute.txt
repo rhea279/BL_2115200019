@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Movie Management System\Movie Management System\bin\Debug\Movie Management System.exe.config
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Movie Management System\Movie Management System\bin\Debug\Movie Management System.exe
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Movie Management System\Movie Management System\bin\Debug\Movie Management System.pdb
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Movie Management System\Movie Management System\obj\Debug\Movie Management System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Movie Management System\Movie Management System\obj\Debug\Movie Management System.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Movie Management System\Movie Management System\obj\Debug\Movie Management System.exe
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Movie Management System\Movie Management System\obj\Debug\Movie Management System.pdb

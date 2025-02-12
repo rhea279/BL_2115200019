@@ -1,0 +1,2 @@
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Online Ticket Reservation System\Online Ticket Reservation System\obj\Debug\Online Ticket Reservation System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Online Ticket Reservation System\Online Ticket Reservation System\obj\Debug\Online Ticket Reservation System.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Student Record Management\Student Record Management\obj\Debug\Student Record Management.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Student Record Management\Student Record Management\obj\Debug\Student Record Management.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Student Record Management\Student Record Management\bin\Debug\Student Record Management.exe.config
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Student Record Management\Student Record Management\bin\Debug\Student Record Management.exe
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Student Record Management\Student Record Management\bin\Debug\Student Record Management.pdb
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Student Record Management\Student Record Management\obj\Debug\Student Record Management.exe
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Student Record Management\Student Record Management\obj\Debug\Student Record Management.pdb

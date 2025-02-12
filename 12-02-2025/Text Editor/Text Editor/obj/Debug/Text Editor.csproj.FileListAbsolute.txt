@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Text Editor\Text Editor\bin\Debug\Text Editor.exe.config
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Text Editor\Text Editor\bin\Debug\Text Editor.exe
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Text Editor\Text Editor\bin\Debug\Text Editor.pdb
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Text Editor\Text Editor\obj\Debug\Text Editor.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Text Editor\Text Editor\obj\Debug\Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Text Editor\Text Editor\obj\Debug\Text Editor.exe
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Text Editor\Text Editor\obj\Debug\Text Editor.pdb

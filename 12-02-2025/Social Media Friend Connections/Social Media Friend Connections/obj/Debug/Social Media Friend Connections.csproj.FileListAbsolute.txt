@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Social Media Friend Connections\Social Media Friend Connections\bin\Debug\Social Media Friend Connections.exe.config
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Social Media Friend Connections\Social Media Friend Connections\bin\Debug\Social Media Friend Connections.exe
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Social Media Friend Connections\Social Media Friend Connections\bin\Debug\Social Media Friend Connections.pdb
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Social Media Friend Connections\Social Media Friend Connections\obj\Debug\Social Media Friend Connections.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Social Media Friend Connections\Social Media Friend Connections\obj\Debug\Social Media Friend Connections.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Social Media Friend Connections\Social Media Friend Connections\obj\Debug\Social Media Friend Connections.exe
+C:\Users\asus\OneDrive\Desktop\11-02-2025\Social Media Friend Connections\Social Media Friend Connections\obj\Debug\Social Media Friend Connections.pdb
