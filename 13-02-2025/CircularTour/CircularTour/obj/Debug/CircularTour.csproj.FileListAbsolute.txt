@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\CircularTour\CircularTour\bin\Debug\CircularTour.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\CircularTour\CircularTour\bin\Debug\CircularTour.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\CircularTour\CircularTour\bin\Debug\CircularTour.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\CircularTour\CircularTour\obj\Debug\CircularTour.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\CircularTour\CircularTour\obj\Debug\CircularTour.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\CircularTour\CircularTour\obj\Debug\CircularTour.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\CircularTour\CircularTour\obj\Debug\CircularTour.pdb

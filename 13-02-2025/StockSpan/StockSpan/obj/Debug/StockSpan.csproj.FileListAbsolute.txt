@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StockSpan\StockSpan\bin\Debug\StockSpan.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StockSpan\StockSpan\bin\Debug\StockSpan.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StockSpan\StockSpan\bin\Debug\StockSpan.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StockSpan\StockSpan\obj\Debug\StockSpan.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StockSpan\StockSpan\obj\Debug\StockSpan.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StockSpan\StockSpan\obj\Debug\StockSpan.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StockSpan\StockSpan\obj\Debug\StockSpan.pdb

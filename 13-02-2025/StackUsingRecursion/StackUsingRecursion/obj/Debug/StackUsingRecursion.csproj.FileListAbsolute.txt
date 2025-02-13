@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StackUsingRecursion\StackUsingRecursion\bin\Debug\StackUsingRecursion.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StackUsingRecursion\StackUsingRecursion\bin\Debug\StackUsingRecursion.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StackUsingRecursion\StackUsingRecursion\bin\Debug\StackUsingRecursion.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StackUsingRecursion\StackUsingRecursion\obj\Debug\StackUsingRecursion.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StackUsingRecursion\StackUsingRecursion\obj\Debug\StackUsingRecursion.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StackUsingRecursion\StackUsingRecursion\obj\Debug\StackUsingRecursion.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\StackUsingRecursion\StackUsingRecursion\obj\Debug\StackUsingRecursion.pdb

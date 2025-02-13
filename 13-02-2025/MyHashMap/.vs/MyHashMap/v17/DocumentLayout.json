@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\13-02-2025\\MyHashMap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{210A3C2D-F420-4EDF-A8EB-D9B657F5187B}|MyHashMap\\MyHashMap.csproj|c:\\users\\asus\\onedrive\\desktop\\13-02-2025\\myhashmap\\myhashmap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210A3C2D-F420-4EDF-A8EB-D9B657F5187B}|MyHashMap\\MyHashMap.csproj|solutionrelative:myhashmap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\13-02-2025\\MyHashMap\\MyHashMap\\Program.cs",
+              "RelativeDocumentMoniker": "MyHashMap\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\13-02-2025\\MyHashMap\\MyHashMap\\Program.cs",
+              "RelativeToolTip": "MyHashMap\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwDwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:36:45.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\Queue\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\Queue\Queue\obj\Debug\Queue.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\ZeroSumSubarrays\ZeroSumSubarrays\bin\Debug\ZeroSumSubarrays.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\ZeroSumSubarrays\ZeroSumSubarrays\bin\Debug\ZeroSumSubarrays.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\ZeroSumSubarrays\ZeroSumSubarrays\bin\Debug\ZeroSumSubarrays.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\ZeroSumSubarrays\ZeroSumSubarrays\obj\Debug\ZeroSumSubarrays.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\ZeroSumSubarrays\ZeroSumSubarrays\obj\Debug\ZeroSumSubarrays.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\ZeroSumSubarrays\ZeroSumSubarrays\obj\Debug\ZeroSumSubarrays.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\ZeroSumSubarrays\ZeroSumSubarrays\obj\Debug\ZeroSumSubarrays.pdb

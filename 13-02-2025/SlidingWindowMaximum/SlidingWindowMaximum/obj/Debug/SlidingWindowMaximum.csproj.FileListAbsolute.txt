@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SlidingWindowMaximum\SlidingWindowMaximum\bin\Debug\SlidingWindowMaximum.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SlidingWindowMaximum\SlidingWindowMaximum\bin\Debug\SlidingWindowMaximum.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SlidingWindowMaximum\SlidingWindowMaximum\bin\Debug\SlidingWindowMaximum.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SlidingWindowMaximum\SlidingWindowMaximum\obj\Debug\SlidingWindowMaximum.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SlidingWindowMaximum\SlidingWindowMaximum\obj\Debug\SlidingWindowMaximum.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SlidingWindowMaximum\SlidingWindowMaximum\obj\Debug\SlidingWindowMaximum.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SlidingWindowMaximum\SlidingWindowMaximum\obj\Debug\SlidingWindowMaximum.pdb
