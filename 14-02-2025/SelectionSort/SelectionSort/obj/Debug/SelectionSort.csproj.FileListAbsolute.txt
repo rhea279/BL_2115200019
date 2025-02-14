@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SortStudentMarks\SortStudentMarks\bin\Debug\SortStudentMarks.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SortStudentMarks\SortStudentMarks\bin\Debug\SortStudentMarks.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SortStudentMarks\SortStudentMarks\bin\Debug\SortStudentMarks.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SortStudentMarks\SortStudentMarks\obj\Debug\SortStudentMarks.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SortStudentMarks\SortStudentMarks\obj\Debug\SortStudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SortStudentMarks\SortStudentMarks\obj\Debug\SortStudentMarks.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\SortStudentMarks\SortStudentMarks\obj\Debug\SortStudentMarks.pdb

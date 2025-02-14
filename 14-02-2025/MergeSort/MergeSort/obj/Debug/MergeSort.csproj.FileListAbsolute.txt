@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\13-02-2025\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\MergeSort\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\13-02-2025\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\asus\OneDrive\Desktop\13-02-2025\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\asus\OneDrive\Desktop\13-02-2025\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\asus\OneDrive\Desktop\13-02-2025\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
