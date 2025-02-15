@@ -16,3 +16,4 @@
 - **LinkedList**
 - **Stack , Queue, HashMap and Hashing Function**
 - **Sorting Algorithms**
+- **Linear and Binary Search**
