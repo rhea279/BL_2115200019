@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ReverseString\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ReverseString\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ReverseString\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ReverseString\ReverseString\obj\Debug\ReverseString.pdb

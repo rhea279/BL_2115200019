@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchMissingNumber\SearchMissingNumber\bin\Debug\SearchMissingNumber.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchMissingNumber\SearchMissingNumber\bin\Debug\SearchMissingNumber.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchMissingNumber\SearchMissingNumber\bin\Debug\SearchMissingNumber.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchMissingNumber\SearchMissingNumber\obj\Debug\SearchMissingNumber.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchMissingNumber\SearchMissingNumber\obj\Debug\SearchMissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchMissingNumber\SearchMissingNumber\obj\Debug\SearchMissingNumber.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchMissingNumber\SearchMissingNumber\obj\Debug\SearchMissingNumber.pdb

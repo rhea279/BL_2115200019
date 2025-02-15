@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchTarget\SearchTarget\bin\Debug\SearchTarget.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchTarget\SearchTarget\bin\Debug\SearchTarget.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchTarget\SearchTarget\bin\Debug\SearchTarget.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchTarget\SearchTarget\obj\Debug\SearchTarget.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchTarget\SearchTarget\obj\Debug\SearchTarget.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchTarget\SearchTarget\obj\Debug\SearchTarget.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchTarget\SearchTarget\obj\Debug\SearchTarget.pdb

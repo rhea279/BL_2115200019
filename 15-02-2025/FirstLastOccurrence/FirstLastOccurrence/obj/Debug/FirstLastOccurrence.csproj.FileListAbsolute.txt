@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstLastOccurrence\FirstLastOccurrence\bin\Debug\FirstLastOccurrence.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstLastOccurrence\FirstLastOccurrence\bin\Debug\FirstLastOccurrence.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstLastOccurrence\FirstLastOccurrence\bin\Debug\FirstLastOccurrence.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstLastOccurrence\FirstLastOccurrence\obj\Debug\FirstLastOccurrence.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstLastOccurrence\FirstLastOccurrence\obj\Debug\FirstLastOccurrence.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstLastOccurrence\FirstLastOccurrence\obj\Debug\FirstLastOccurrence.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstLastOccurrence\FirstLastOccurrence\obj\Debug\FirstLastOccurrence.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ComparePerformance\ComparePerformance\bin\Debug\ComparePerformance.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ComparePerformance\ComparePerformance\bin\Debug\ComparePerformance.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ComparePerformance\ComparePerformance\bin\Debug\ComparePerformance.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ComparePerformance\ComparePerformance\obj\Debug\ComparePerformance.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ComparePerformance\ComparePerformance\obj\Debug\ComparePerformance.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ComparePerformance\ComparePerformance\obj\Debug\ComparePerformance.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\ComparePerformance\ComparePerformance\obj\Debug\ComparePerformance.pdb

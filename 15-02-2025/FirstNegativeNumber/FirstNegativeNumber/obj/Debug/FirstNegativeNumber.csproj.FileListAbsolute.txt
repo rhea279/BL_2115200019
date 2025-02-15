@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstNegativeNumber\FirstNegativeNumber\bin\Debug\FirstNegativeNumber.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstNegativeNumber\FirstNegativeNumber\bin\Debug\FirstNegativeNumber.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstNegativeNumber\FirstNegativeNumber\bin\Debug\FirstNegativeNumber.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstNegativeNumber\FirstNegativeNumber\obj\Debug\FirstNegativeNumber.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstNegativeNumber\FirstNegativeNumber\obj\Debug\FirstNegativeNumber.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstNegativeNumber\FirstNegativeNumber\obj\Debug\FirstNegativeNumber.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\FirstNegativeNumber\FirstNegativeNumber\obj\Debug\FirstNegativeNumber.pdb

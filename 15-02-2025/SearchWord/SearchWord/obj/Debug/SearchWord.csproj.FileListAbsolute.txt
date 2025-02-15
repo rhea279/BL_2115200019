@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchWord\SearchWord\bin\Debug\SearchWord.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchWord\SearchWord\bin\Debug\SearchWord.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchWord\SearchWord\bin\Debug\SearchWord.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchWord\SearchWord\obj\Debug\SearchWord.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchWord\SearchWord\obj\Debug\SearchWord.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchWord\SearchWord\obj\Debug\SearchWord.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\SearchWord\SearchWord\obj\Debug\SearchWord.pdb

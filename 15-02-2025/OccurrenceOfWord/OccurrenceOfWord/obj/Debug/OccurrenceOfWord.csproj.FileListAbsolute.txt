@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\OccurrenceOfWord\OccurrenceOfWord\bin\Debug\OccurrenceOfWord.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\OccurrenceOfWord\OccurrenceOfWord\bin\Debug\OccurrenceOfWord.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\OccurrenceOfWord\OccurrenceOfWord\bin\Debug\OccurrenceOfWord.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\OccurrenceOfWord\OccurrenceOfWord\obj\Debug\OccurrenceOfWord.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\OccurrenceOfWord\OccurrenceOfWord\obj\Debug\OccurrenceOfWord.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\OccurrenceOfWord\OccurrenceOfWord\obj\Debug\OccurrenceOfWord.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\OccurrenceOfWord\OccurrenceOfWord\obj\Debug\OccurrenceOfWord.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\StreamReader\StreamReader\bin\Debug\StreamReader.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\StreamReader\StreamReader\bin\Debug\StreamReader.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\StreamReader\StreamReader\bin\Debug\StreamReader.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\StreamReader\StreamReader\obj\Debug\StreamReader.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\StreamReader\StreamReader\obj\Debug\StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\StreamReader\StreamReader\obj\Debug\StreamReader.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\StreamReader\StreamReader\obj\Debug\StreamReader.pdb

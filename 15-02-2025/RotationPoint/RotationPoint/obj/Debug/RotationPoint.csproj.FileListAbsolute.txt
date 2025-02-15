@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\15-02-2025\RotationPoint\RotationPoint\bin\Debug\RotationPoint.exe.config
+C:\Users\asus\OneDrive\Desktop\15-02-2025\RotationPoint\RotationPoint\bin\Debug\RotationPoint.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\RotationPoint\RotationPoint\bin\Debug\RotationPoint.pdb
+C:\Users\asus\OneDrive\Desktop\15-02-2025\RotationPoint\RotationPoint\obj\Debug\RotationPoint.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\RotationPoint\RotationPoint\obj\Debug\RotationPoint.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\15-02-2025\RotationPoint\RotationPoint\obj\Debug\RotationPoint.exe
+C:\Users\asus\OneDrive\Desktop\15-02-2025\RotationPoint\RotationPoint\obj\Debug\RotationPoint.pdb
