@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\17-02-2025\RecursiveVsIterative\RecursiveVsIterative\bin\Debug\RecursiveVsIterative.exe.config
+C:\Users\asus\OneDrive\Desktop\17-02-2025\RecursiveVsIterative\RecursiveVsIterative\bin\Debug\RecursiveVsIterative.exe
+C:\Users\asus\OneDrive\Desktop\17-02-2025\RecursiveVsIterative\RecursiveVsIterative\bin\Debug\RecursiveVsIterative.pdb
+C:\Users\asus\OneDrive\Desktop\17-02-2025\RecursiveVsIterative\RecursiveVsIterative\obj\Debug\RecursiveVsIterative.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\17-02-2025\RecursiveVsIterative\RecursiveVsIterative\obj\Debug\RecursiveVsIterative.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\17-02-2025\RecursiveVsIterative\RecursiveVsIterative\obj\Debug\RecursiveVsIterative.exe
+C:\Users\asus\OneDrive\Desktop\17-02-2025\RecursiveVsIterative\RecursiveVsIterative\obj\Debug\RecursiveVsIterative.pdb

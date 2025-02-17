@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\17-02-2025\ConcatenationPerformance\ConcatenationPerformance\bin\Debug\ConcatenationPerformance.exe.config
+C:\Users\asus\OneDrive\Desktop\17-02-2025\ConcatenationPerformance\ConcatenationPerformance\bin\Debug\ConcatenationPerformance.exe
+C:\Users\asus\OneDrive\Desktop\17-02-2025\ConcatenationPerformance\ConcatenationPerformance\bin\Debug\ConcatenationPerformance.pdb
+C:\Users\asus\OneDrive\Desktop\17-02-2025\ConcatenationPerformance\ConcatenationPerformance\obj\Debug\ConcatenationPerformance.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\17-02-2025\ConcatenationPerformance\ConcatenationPerformance\obj\Debug\ConcatenationPerformance.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\17-02-2025\ConcatenationPerformance\ConcatenationPerformance\obj\Debug\ConcatenationPerformance.exe
+C:\Users\asus\OneDrive\Desktop\17-02-2025\ConcatenationPerformance\ConcatenationPerformance\obj\Debug\ConcatenationPerformance.pdb

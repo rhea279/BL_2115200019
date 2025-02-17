@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\17-02-2025\SortingAlgos\SortingAlgos\bin\Debug\SortingAlgos.exe.config
+C:\Users\asus\OneDrive\Desktop\17-02-2025\SortingAlgos\SortingAlgos\bin\Debug\SortingAlgos.exe
+C:\Users\asus\OneDrive\Desktop\17-02-2025\SortingAlgos\SortingAlgos\bin\Debug\SortingAlgos.pdb
+C:\Users\asus\OneDrive\Desktop\17-02-2025\SortingAlgos\SortingAlgos\obj\Debug\SortingAlgos.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\17-02-2025\SortingAlgos\SortingAlgos\obj\Debug\SortingAlgos.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\17-02-2025\SortingAlgos\SortingAlgos\obj\Debug\SortingAlgos.exe
+C:\Users\asus\OneDrive\Desktop\17-02-2025\SortingAlgos\SortingAlgos\obj\Debug\SortingAlgos.pdb
