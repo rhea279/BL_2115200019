@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Multi-Level University Course Management System\Multi-Level University Course Management System\bin\Debug\Multi-Level University Course Management System.exe.config
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Multi-Level University Course Management System\Multi-Level University Course Management System\bin\Debug\Multi-Level University Course Management System.exe
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Multi-Level University Course Management System\Multi-Level University Course Management System\bin\Debug\Multi-Level University Course Management System.pdb
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Multi-Level University Course Management System\Multi-Level University Course Management System\obj\Debug\Multi-Level University Course Management System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Multi-Level University Course Management System\Multi-Level University Course Management System\obj\Debug\Multi-Level University Course Management System.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Multi-Level University Course Management System\Multi-Level University Course Management System\obj\Debug\Multi-Level University Course Management System.exe
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Multi-Level University Course Management System\Multi-Level University Course Management System\obj\Debug\Multi-Level University Course Management System.pdb

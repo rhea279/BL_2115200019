@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Smart Warehouse Management System\Smart Warehouse Management System\bin\Debug\Smart Warehouse Management System.exe.config
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Smart Warehouse Management System\Smart Warehouse Management System\bin\Debug\Smart Warehouse Management System.exe
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Smart Warehouse Management System\Smart Warehouse Management System\bin\Debug\Smart Warehouse Management System.pdb
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Smart Warehouse Management System\Smart Warehouse Management System\obj\Debug\Smart Warehouse Management System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Smart Warehouse Management System\Smart Warehouse Management System\obj\Debug\Smart Warehouse Management System.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Smart Warehouse Management System\Smart Warehouse Management System\obj\Debug\Smart Warehouse Management System.exe
+C:\Users\asus\OneDrive\Desktop\18-02-2025\Smart Warehouse Management System\Smart Warehouse Management System\obj\Debug\Smart Warehouse Management System.pdb

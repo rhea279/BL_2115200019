@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\18-02-2025\AI-Driven Resume Screening System\AI-Driven Resume Screening System\bin\Debug\AI-Driven Resume Screening System.exe.config
+C:\Users\asus\OneDrive\Desktop\18-02-2025\AI-Driven Resume Screening System\AI-Driven Resume Screening System\bin\Debug\AI-Driven Resume Screening System.exe
+C:\Users\asus\OneDrive\Desktop\18-02-2025\AI-Driven Resume Screening System\AI-Driven Resume Screening System\bin\Debug\AI-Driven Resume Screening System.pdb
+C:\Users\asus\OneDrive\Desktop\18-02-2025\AI-Driven Resume Screening System\AI-Driven Resume Screening System\obj\Debug\AI-Driven Resume Screening System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\18-02-2025\AI-Driven Resume Screening System\AI-Driven Resume Screening System\obj\Debug\AI-Driven Resume Screening System.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\18-02-2025\AI-Driven Resume Screening System\AI-Driven Resume Screening System\obj\Debug\AI-Driven Resume Screening System.exe
+C:\Users\asus\OneDrive\Desktop\18-02-2025\AI-Driven Resume Screening System\AI-Driven Resume Screening System\obj\Debug\AI-Driven Resume Screening System.pdb
