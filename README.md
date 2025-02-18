@@ -18,3 +18,4 @@
 - **Sorting Algorithms**
 - **Linear and Binary Search**
 - **Algorithm's Runtime Analysis & Big-O Notation**
+- **Generics**
