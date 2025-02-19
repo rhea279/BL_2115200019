@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Reverse A Queue\Reverse A Queue\bin\Debug\Reverse A Queue.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Reverse A Queue\Reverse A Queue\bin\Debug\Reverse A Queue.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Reverse A Queue\Reverse A Queue\bin\Debug\Reverse A Queue.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Reverse A Queue\Reverse A Queue\obj\Debug\Reverse A Queue.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Reverse A Queue\Reverse A Queue\obj\Debug\Reverse A Queue.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Reverse A Queue\Reverse A Queue\obj\Debug\Reverse A Queue.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Reverse A Queue\Reverse A Queue\obj\Debug\Reverse A Queue.pdb

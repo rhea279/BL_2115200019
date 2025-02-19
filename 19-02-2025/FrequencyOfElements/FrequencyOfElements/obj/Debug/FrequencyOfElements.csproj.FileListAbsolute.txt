@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\FrequencyOfElements\FrequencyOfElements\bin\Debug\FrequencyOfElements.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\FrequencyOfElements\FrequencyOfElements\bin\Debug\FrequencyOfElements.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\FrequencyOfElements\FrequencyOfElements\bin\Debug\FrequencyOfElements.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\FrequencyOfElements\FrequencyOfElements\obj\Debug\FrequencyOfElements.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\FrequencyOfElements\FrequencyOfElements\obj\Debug\FrequencyOfElements.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\FrequencyOfElements\FrequencyOfElements\obj\Debug\FrequencyOfElements.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\FrequencyOfElements\FrequencyOfElements\obj\Debug\FrequencyOfElements.pdb

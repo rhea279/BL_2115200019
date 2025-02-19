@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\RemoveDuplicates\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\RemoveDuplicates\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\RemoveDuplicates\RemoveDuplicates\bin\Debug\RemoveDuplicates.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\RemoveDuplicates\RemoveDuplicates\obj\Debug\RemoveDuplicates.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\RemoveDuplicates\RemoveDuplicates\obj\Debug\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\RemoveDuplicates\RemoveDuplicates\obj\Debug\RemoveDuplicates.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\RemoveDuplicates\RemoveDuplicates\obj\Debug\RemoveDuplicates.pdb

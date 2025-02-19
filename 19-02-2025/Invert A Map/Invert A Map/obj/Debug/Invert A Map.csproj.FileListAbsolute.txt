@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Invert A Map\Invert A Map\obj\Debug\Invert A Map.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Invert A Map\Invert A Map\obj\Debug\Invert A Map.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Invert A Map\Invert A Map\bin\Debug\Invert A Map.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Invert A Map\Invert A Map\bin\Debug\Invert A Map.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Invert A Map\Invert A Map\bin\Debug\Invert A Map.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Invert A Map\Invert A Map\obj\Debug\Invert A Map.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Invert A Map\Invert A Map\obj\Debug\Invert A Map.pdb

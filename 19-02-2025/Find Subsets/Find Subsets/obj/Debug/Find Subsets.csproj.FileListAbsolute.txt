@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Find Subsets\Find Subsets\bin\Debug\Find Subsets.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Find Subsets\Find Subsets\bin\Debug\Find Subsets.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Find Subsets\Find Subsets\bin\Debug\Find Subsets.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Find Subsets\Find Subsets\obj\Debug\Find Subsets.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Find Subsets\Find Subsets\obj\Debug\Find Subsets.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Find Subsets\Find Subsets\obj\Debug\Find Subsets.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Find Subsets\Find Subsets\obj\Debug\Find Subsets.pdb

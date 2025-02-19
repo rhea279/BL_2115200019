@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Binary Numbers\Binary Numbers\bin\Debug\Binary Numbers.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Binary Numbers\Binary Numbers\bin\Debug\Binary Numbers.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Binary Numbers\Binary Numbers\bin\Debug\Binary Numbers.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Binary Numbers\Binary Numbers\obj\Debug\Binary Numbers.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Binary Numbers\Binary Numbers\obj\Debug\Binary Numbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Binary Numbers\Binary Numbers\obj\Debug\Binary Numbers.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Binary Numbers\Binary Numbers\obj\Debug\Binary Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Word Frequency Counter\Word Frequency Counter\bin\Debug\Word Frequency Counter.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Word Frequency Counter\Word Frequency Counter\bin\Debug\Word Frequency Counter.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Word Frequency Counter\Word Frequency Counter\bin\Debug\Word Frequency Counter.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Word Frequency Counter\Word Frequency Counter\obj\Debug\Word Frequency Counter.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Word Frequency Counter\Word Frequency Counter\obj\Debug\Word Frequency Counter.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Word Frequency Counter\Word Frequency Counter\obj\Debug\Word Frequency Counter.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Word Frequency Counter\Word Frequency Counter\obj\Debug\Word Frequency Counter.pdb

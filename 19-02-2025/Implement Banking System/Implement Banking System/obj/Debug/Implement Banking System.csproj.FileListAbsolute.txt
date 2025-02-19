@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Implement Banking System\Implement Banking System\bin\Debug\Implement Banking System.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Implement Banking System\Implement Banking System\bin\Debug\Implement Banking System.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Implement Banking System\Implement Banking System\bin\Debug\Implement Banking System.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Implement Banking System\Implement Banking System\obj\Debug\Implement Banking System.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Implement Banking System\Implement Banking System\obj\Debug\Implement Banking System.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Implement Banking System\Implement Banking System\obj\Debug\Implement Banking System.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Implement Banking System\Implement Banking System\obj\Debug\Implement Banking System.pdb

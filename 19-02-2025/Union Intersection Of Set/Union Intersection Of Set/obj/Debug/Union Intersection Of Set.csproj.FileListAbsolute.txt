@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Union Intersection Of Set\Union Intersection Of Set\obj\Debug\Union Intersection Of Set.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Union Intersection Of Set\Union Intersection Of Set\obj\Debug\Union Intersection Of Set.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Union Intersection Of Set\Union Intersection Of Set\bin\Debug\Union Intersection Of Set.exe.config
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Union Intersection Of Set\Union Intersection Of Set\bin\Debug\Union Intersection Of Set.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Union Intersection Of Set\Union Intersection Of Set\bin\Debug\Union Intersection Of Set.pdb
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Union Intersection Of Set\Union Intersection Of Set\obj\Debug\Union Intersection Of Set.exe
+C:\Users\asus\OneDrive\Desktop\19-02-2025\Union Intersection Of Set\Union Intersection Of Set\obj\Debug\Union Intersection Of Set.pdb
