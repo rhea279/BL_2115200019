@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\20-02-2025\\Data Streams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{081BFF95-9773-47F5-B6F9-99D470C0C1D7}|Data Streams\\Data Streams.csproj|c:\\users\\asus\\onedrive\\desktop\\20-02-2025\\data streams\\data streams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081BFF95-9773-47F5-B6F9-99D470C0C1D7}|Data Streams\\Data Streams.csproj|solutionrelative:data streams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\20-02-2025\\Data Streams\\Data Streams\\Program.cs",
+              "RelativeDocumentMoniker": "Data Streams\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\20-02-2025\\Data Streams\\Data Streams\\Program.cs",
+              "RelativeToolTip": "Data Streams\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T17:01:02.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
