@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Bank Transaction System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB512BE-C75F-4EDD-9635-6B70B0CD6A20}|Bank Transaction System\\Bank Transaction System.csproj|c:\\users\\asus\\onedrive\\desktop\\21-02-2025\\bank transaction system\\bank transaction system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB512BE-C75F-4EDD-9635-6B70B0CD6A20}|Bank Transaction System\\Bank Transaction System.csproj|solutionrelative:bank transaction system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Bank Transaction System\\Bank Transaction System\\Program.cs",
+              "RelativeDocumentMoniker": "Bank Transaction System\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Bank Transaction System\\Bank Transaction System\\Program.cs",
+              "RelativeToolTip": "Bank Transaction System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:59:02.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

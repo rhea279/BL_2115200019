@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Handling Multiple Exceptions\Handling Multiple Exceptions\bin\Debug\Handling Multiple Exceptions.exe.config
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Handling Multiple Exceptions\Handling Multiple Exceptions\bin\Debug\Handling Multiple Exceptions.exe
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Handling Multiple Exceptions\Handling Multiple Exceptions\bin\Debug\Handling Multiple Exceptions.pdb
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Handling Multiple Exceptions\Handling Multiple Exceptions\obj\Debug\Handling Multiple Exceptions.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Handling Multiple Exceptions\Handling Multiple Exceptions\obj\Debug\Handling Multiple Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Handling Multiple Exceptions\Handling Multiple Exceptions\obj\Debug\Handling Multiple Exceptions.exe
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Handling Multiple Exceptions\Handling Multiple Exceptions\obj\Debug\Handling Multiple Exceptions.pdb

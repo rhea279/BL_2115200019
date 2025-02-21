@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Propagating Exceptions Across Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75E96E26-222E-4475-B404-71BFC443D716}|Propagating Exceptions Across Methods\\Propagating Exceptions Across Methods.csproj|c:\\users\\asus\\onedrive\\desktop\\21-02-2025\\propagating exceptions across methods\\propagating exceptions across methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75E96E26-222E-4475-B404-71BFC443D716}|Propagating Exceptions Across Methods\\Propagating Exceptions Across Methods.csproj|solutionrelative:propagating exceptions across methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Propagating Exceptions Across Methods\\Propagating Exceptions Across Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Propagating Exceptions Across Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Propagating Exceptions Across Methods\\Propagating Exceptions Across Methods\\Program.cs",
+              "RelativeToolTip": "Propagating Exceptions Across Methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:42:40.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

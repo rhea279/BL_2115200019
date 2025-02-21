@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Handling File Not Found Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC8F659-F31A-4DD3-9CB4-644532CBE965}|Handling File Not Found Exception\\Handling File Not Found Exception.csproj|c:\\users\\asus\\onedrive\\desktop\\21-02-2025\\handling file not found exception\\handling file not found exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC8F659-F31A-4DD3-9CB4-644532CBE965}|Handling File Not Found Exception\\Handling File Not Found Exception.csproj|solutionrelative:handling file not found exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Handling File Not Found Exception\\Handling File Not Found Exception\\Program.cs",
+              "RelativeDocumentMoniker": "Handling File Not Found Exception\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\21-02-2025\\Handling File Not Found Exception\\Handling File Not Found Exception\\Program.cs",
+              "RelativeToolTip": "Handling File Not Found Exception\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:21:27.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

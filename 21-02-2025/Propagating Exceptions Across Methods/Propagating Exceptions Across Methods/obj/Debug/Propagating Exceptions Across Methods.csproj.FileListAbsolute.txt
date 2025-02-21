@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Propagating Exceptions Across Methods\Propagating Exceptions Across Methods\obj\Debug\Propagating Exceptions Across Methods.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Propagating Exceptions Across Methods\Propagating Exceptions Across Methods\obj\Debug\Propagating Exceptions Across Methods.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Propagating Exceptions Across Methods\Propagating Exceptions Across Methods\bin\Debug\Propagating Exceptions Across Methods.exe.config
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Propagating Exceptions Across Methods\Propagating Exceptions Across Methods\bin\Debug\Propagating Exceptions Across Methods.exe
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Propagating Exceptions Across Methods\Propagating Exceptions Across Methods\bin\Debug\Propagating Exceptions Across Methods.pdb
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Propagating Exceptions Across Methods\Propagating Exceptions Across Methods\obj\Debug\Propagating Exceptions Across Methods.exe
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Propagating Exceptions Across Methods\Propagating Exceptions Across Methods\obj\Debug\Propagating Exceptions Across Methods.pdb

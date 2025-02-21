@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Creating and Handling a Custom Exception\Creating and Handling a Custom Exception\bin\Debug\Creating and Handling a Custom Exception.exe.config
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Creating and Handling a Custom Exception\Creating and Handling a Custom Exception\bin\Debug\Creating and Handling a Custom Exception.exe
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Creating and Handling a Custom Exception\Creating and Handling a Custom Exception\bin\Debug\Creating and Handling a Custom Exception.pdb
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Creating and Handling a Custom Exception\Creating and Handling a Custom Exception\obj\Debug\Creating and Handling a Custom Exception.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Creating and Handling a Custom Exception\Creating and Handling a Custom Exception\obj\Debug\Creating and Handling a Custom Exception.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Creating and Handling a Custom Exception\Creating and Handling a Custom Exception\obj\Debug\Creating and Handling a Custom Exception.exe
+C:\Users\asus\OneDrive\Desktop\21-02-2025\Creating and Handling a Custom Exception\Creating and Handling a Custom Exception\obj\Debug\Creating and Handling a Custom Exception.pdb
