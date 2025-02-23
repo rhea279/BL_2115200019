@@ -1,7 +1,0 @@
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a Username\Validate a Username\bin\Debug\Validate a Username.exe.config
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a Username\Validate a Username\bin\Debug\Validate a Username.exe
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a Username\Validate a Username\bin\Debug\Validate a Username.pdb
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a Username\Validate a Username\obj\Debug\Validate a Username.csproj.AssemblyReference.cache
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a Username\Validate a Username\obj\Debug\Validate a Username.csproj.CoreCompileInputs.cache
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a Username\Validate a Username\obj\Debug\Validate a Username.exe
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a Username\Validate a Username\obj\Debug\Validate a Username.pdb

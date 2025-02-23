@@ -1,7 +1,0 @@
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Email\Extract Email\bin\Debug\Extract Email.exe.config
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Email\Extract Email\bin\Debug\Extract Email.exe
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Email\Extract Email\bin\Debug\Extract Email.pdb
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Email\Extract Email\obj\Debug\Extract Email.csproj.AssemblyReference.cache
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Email\Extract Email\obj\Debug\Extract Email.csproj.CoreCompileInputs.cache
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Email\Extract Email\obj\Debug\Extract Email.exe
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Email\Extract Email\obj\Debug\Extract Email.pdb

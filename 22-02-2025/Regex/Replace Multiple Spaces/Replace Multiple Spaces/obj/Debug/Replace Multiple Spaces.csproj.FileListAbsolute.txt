@@ -1,7 +1,0 @@
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Replace Multiple Spaces\Replace Multiple Spaces\bin\Debug\Replace Multiple Spaces.exe.config
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Replace Multiple Spaces\Replace Multiple Spaces\bin\Debug\Replace Multiple Spaces.exe
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Replace Multiple Spaces\Replace Multiple Spaces\bin\Debug\Replace Multiple Spaces.pdb
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Replace Multiple Spaces\Replace Multiple Spaces\obj\Debug\Replace Multiple Spaces.csproj.AssemblyReference.cache
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Replace Multiple Spaces\Replace Multiple Spaces\obj\Debug\Replace Multiple Spaces.csproj.CoreCompileInputs.cache
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Replace Multiple Spaces\Replace Multiple Spaces\obj\Debug\Replace Multiple Spaces.exe
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Replace Multiple Spaces\Replace Multiple Spaces\obj\Debug\Replace Multiple Spaces.pdb

@@ -1,7 +1,0 @@
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Capital Letters\Extract Capital Letters\bin\Debug\Extract Capital Letters.exe.config
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Capital Letters\Extract Capital Letters\bin\Debug\Extract Capital Letters.exe
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Capital Letters\Extract Capital Letters\bin\Debug\Extract Capital Letters.pdb
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Capital Letters\Extract Capital Letters\obj\Debug\Extract Capital Letters.csproj.AssemblyReference.cache
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Capital Letters\Extract Capital Letters\obj\Debug\Extract Capital Letters.csproj.CoreCompileInputs.cache
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Capital Letters\Extract Capital Letters\obj\Debug\Extract Capital Letters.exe
-C:\Users\asus\OneDrive\Desktop\22-02-2025\Extract Capital Letters\Extract Capital Letters\obj\Debug\Extract Capital Letters.pdb
