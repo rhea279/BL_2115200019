@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a License Plate Number\Validate a License Plate Number\bin\Debug\Validate a License Plate Number.exe.config
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a License Plate Number\Validate a License Plate Number\bin\Debug\Validate a License Plate Number.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a License Plate Number\Validate a License Plate Number\bin\Debug\Validate a License Plate Number.pdb
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a License Plate Number\Validate a License Plate Number\obj\Debug\Validate a License Plate Number.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a License Plate Number\Validate a License Plate Number\obj\Debug\Validate a License Plate Number.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a License Plate Number\Validate a License Plate Number\obj\Debug\Validate a License Plate Number.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Validate a License Plate Number\Validate a License Plate Number\obj\Debug\Validate a License Plate Number.pdb

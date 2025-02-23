@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Censor Bad Words\Censor Bad Words\bin\Debug\Censor Bad Words.exe.config
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Censor Bad Words\Censor Bad Words\bin\Debug\Censor Bad Words.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Censor Bad Words\Censor Bad Words\bin\Debug\Censor Bad Words.pdb
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Censor Bad Words\Censor Bad Words\obj\Debug\Censor Bad Words.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Censor Bad Words\Censor Bad Words\obj\Debug\Censor Bad Words.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Censor Bad Words\Censor Bad Words\obj\Debug\Censor Bad Words.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Censor Bad Words\Censor Bad Words\obj\Debug\Censor Bad Words.pdb
