@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Custom Serialization\Custom Serialization\bin\Debug\Custom Serialization.exe.config
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Custom Serialization\Custom Serialization\bin\Debug\Custom Serialization.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Custom Serialization\Custom Serialization\bin\Debug\Custom Serialization.pdb
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Custom Serialization\Custom Serialization\obj\Debug\Custom Serialization.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Custom Serialization\Custom Serialization\obj\Debug\Custom Serialization.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Custom Serialization\Custom Serialization\obj\Debug\Custom Serialization.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Custom Serialization\Custom Serialization\obj\Debug\Custom Serialization.pdb

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Create a Custom Object Mapper\Create a Custom Object Mapper\bin\Debug\Create a Custom Object Mapper.exe.config
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Create a Custom Object Mapper\Create a Custom Object Mapper\bin\Debug\Create a Custom Object Mapper.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Create a Custom Object Mapper\Create a Custom Object Mapper\bin\Debug\Create a Custom Object Mapper.pdb
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Create a Custom Object Mapper\Create a Custom Object Mapper\obj\Debug\Create a Custom Object Mapper.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Create a Custom Object Mapper\Create a Custom Object Mapper\obj\Debug\Create a Custom Object Mapper.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Create a Custom Object Mapper\Create a Custom Object Mapper\obj\Debug\Create a Custom Object Mapper.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Create a Custom Object Mapper\Create a Custom Object Mapper\obj\Debug\Create a Custom Object Mapper.pdb

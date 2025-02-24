@@ -1,0 +1,2 @@
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\SimpleDIContainer\SimpleDIContainer\obj\Debug\SimpleDIContainer.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\SimpleDIContainer\SimpleDIContainer\obj\Debug\SimpleDIContainer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Invoke Private Method\Invoke Private Method\obj\Debug\Invoke Private Method.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Invoke Private Method\Invoke Private Method\obj\Debug\Invoke Private Method.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Invoke Private Method\Invoke Private Method\bin\Debug\Invoke Private Method.exe.config
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Invoke Private Method\Invoke Private Method\bin\Debug\Invoke Private Method.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Invoke Private Method\Invoke Private Method\bin\Debug\Invoke Private Method.pdb
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Invoke Private Method\Invoke Private Method\obj\Debug\Invoke Private Method.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Invoke Private Method\Invoke Private Method\obj\Debug\Invoke Private Method.pdb

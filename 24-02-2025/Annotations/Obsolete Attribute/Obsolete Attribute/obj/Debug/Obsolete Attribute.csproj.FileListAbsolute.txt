@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Obsolete Attribute\Obsolete Attribute\obj\Debug\Obsolete Attribute.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Obsolete Attribute\Obsolete Attribute\obj\Debug\Obsolete Attribute.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Obsolete Attribute\Obsolete Attribute\bin\Debug\Obsolete Attribute.exe.config
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Obsolete Attribute\Obsolete Attribute\bin\Debug\Obsolete Attribute.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Obsolete Attribute\Obsolete Attribute\bin\Debug\Obsolete Attribute.pdb
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Obsolete Attribute\Obsolete Attribute\obj\Debug\Obsolete Attribute.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Obsolete Attribute\Obsolete Attribute\obj\Debug\Obsolete Attribute.pdb

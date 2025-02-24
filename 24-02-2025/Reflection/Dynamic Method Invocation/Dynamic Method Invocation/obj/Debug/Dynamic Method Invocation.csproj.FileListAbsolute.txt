@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Dynamic Method Invocation\Dynamic Method Invocation\obj\Debug\Dynamic Method Invocation.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Dynamic Method Invocation\Dynamic Method Invocation\obj\Debug\Dynamic Method Invocation.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Dynamic Method Invocation\Dynamic Method Invocation\bin\Debug\Dynamic Method Invocation.exe.config
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Dynamic Method Invocation\Dynamic Method Invocation\bin\Debug\Dynamic Method Invocation.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Dynamic Method Invocation\Dynamic Method Invocation\bin\Debug\Dynamic Method Invocation.pdb
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Dynamic Method Invocation\Dynamic Method Invocation\obj\Debug\Dynamic Method Invocation.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Dynamic Method Invocation\Dynamic Method Invocation\obj\Debug\Dynamic Method Invocation.pdb

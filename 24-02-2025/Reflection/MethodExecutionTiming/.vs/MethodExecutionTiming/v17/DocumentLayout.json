@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\24-02-2025\\Reflection\\MethodExecutionTiming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76355F4B-A0E3-4DF1-B332-F550E9438AEB}|MethodExecutionTiming\\MethodExecutionTiming.csproj|c:\\users\\asus\\onedrive\\desktop\\24-02-2025\\reflection\\methodexecutiontiming\\methodexecutiontiming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76355F4B-A0E3-4DF1-B332-F550E9438AEB}|MethodExecutionTiming\\MethodExecutionTiming.csproj|solutionrelative:methodexecutiontiming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\24-02-2025\\Reflection\\MethodExecutionTiming\\MethodExecutionTiming\\Program.cs",
+              "RelativeDocumentMoniker": "MethodExecutionTiming\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\24-02-2025\\Reflection\\MethodExecutionTiming\\MethodExecutionTiming\\Program.cs",
+              "RelativeToolTip": "MethodExecutionTiming\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:23:45.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

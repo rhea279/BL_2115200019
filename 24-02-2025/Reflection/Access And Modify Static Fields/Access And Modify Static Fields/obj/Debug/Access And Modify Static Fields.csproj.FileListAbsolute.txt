@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Access And Modify Static Fields\Access And Modify Static Fields\obj\Debug\Access And Modify Static Fields.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Access And Modify Static Fields\Access And Modify Static Fields\obj\Debug\Access And Modify Static Fields.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Access And Modify Static Fields\Access And Modify Static Fields\bin\Debug\Access And Modify Static Fields.exe.config
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Access And Modify Static Fields\Access And Modify Static Fields\bin\Debug\Access And Modify Static Fields.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Access And Modify Static Fields\Access And Modify Static Fields\bin\Debug\Access And Modify Static Fields.pdb
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Access And Modify Static Fields\Access And Modify Static Fields\obj\Debug\Access And Modify Static Fields.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Access And Modify Static Fields\Access And Modify Static Fields\obj\Debug\Access And Modify Static Fields.pdb

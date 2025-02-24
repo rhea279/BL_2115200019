@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Get Class Info\Get Class Info\obj\Debug\Get Class Info.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Get Class Info\Get Class Info\obj\Debug\Get Class Info.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Get Class Info\Get Class Info\bin\Debug\Get Class Info.exe.config
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Get Class Info\Get Class Info\bin\Debug\Get Class Info.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Get Class Info\Get Class Info\bin\Debug\Get Class Info.pdb
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Get Class Info\Get Class Info\obj\Debug\Get Class Info.exe
+C:\Users\asus\OneDrive\Desktop\24-02-2025\Reflection\Get Class Info\Get Class Info\obj\Debug\Get Class Info.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\22-02-2025\\Custom Serialization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25E1673B-AD23-4B55-9301-374195953411}|Custom Serialization\\Custom Serialization.csproj|c:\\users\\asus\\onedrive\\desktop\\22-02-2025\\custom serialization\\custom serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E1673B-AD23-4B55-9301-374195953411}|Custom Serialization\\Custom Serialization.csproj|solutionrelative:custom serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\22-02-2025\\Custom Serialization\\Custom Serialization\\Program.cs",
+              "RelativeDocumentMoniker": "Custom Serialization\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\22-02-2025\\Custom Serialization\\Custom Serialization\\Program.cs",
+              "RelativeToolTip": "Custom Serialization\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwC4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:02:46.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Logging Method Execution Time\Logging Method Execution Time\bin\Debug\Logging Method Execution Time.exe.config
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Logging Method Execution Time\Logging Method Execution Time\bin\Debug\Logging Method Execution Time.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Logging Method Execution Time\Logging Method Execution Time\bin\Debug\Logging Method Execution Time.pdb
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Logging Method Execution Time\Logging Method Execution Time\obj\Debug\Logging Method Execution Time.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Logging Method Execution Time\Logging Method Execution Time\obj\Debug\Logging Method Execution Time.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Logging Method Execution Time\Logging Method Execution Time\obj\Debug\Logging Method Execution Time.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Logging Method Execution Time\Logging Method Execution Time\obj\Debug\Logging Method Execution Time.pdb

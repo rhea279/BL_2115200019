@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Role-Based Access Control\Role-Based Access Control\obj\Debug\Role-Based Access Control.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Role-Based Access Control\Role-Based Access Control\obj\Debug\Role-Based Access Control.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Role-Based Access Control\Role-Based Access Control\bin\Debug\Role-Based Access Control.exe.config
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Role-Based Access Control\Role-Based Access Control\bin\Debug\Role-Based Access Control.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Role-Based Access Control\Role-Based Access Control\bin\Debug\Role-Based Access Control.pdb
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Role-Based Access Control\Role-Based Access Control\obj\Debug\Role-Based Access Control.exe
+C:\Users\asus\OneDrive\Desktop\22-02-2025\Role-Based Access Control\Role-Based Access Control\obj\Debug\Role-Based Access Control.pdb

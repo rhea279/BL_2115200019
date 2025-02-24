@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\24-02-2025\\Reflection\\Dynamic Method Invocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791D1BD5-07CA-406E-81CD-C14D7EE2406C}|Dynamic Method Invocation\\Dynamic Method Invocation.csproj|c:\\users\\asus\\onedrive\\desktop\\24-02-2025\\reflection\\dynamic method invocation\\dynamic method invocation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791D1BD5-07CA-406E-81CD-C14D7EE2406C}|Dynamic Method Invocation\\Dynamic Method Invocation.csproj|solutionrelative:dynamic method invocation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\24-02-2025\\Reflection\\Dynamic Method Invocation\\Dynamic Method Invocation\\Program.cs",
+              "RelativeDocumentMoniker": "Dynamic Method Invocation\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\24-02-2025\\Reflection\\Dynamic Method Invocation\\Dynamic Method Invocation\\Program.cs*",
+              "RelativeToolTip": "Dynamic Method Invocation\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:16:01.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
