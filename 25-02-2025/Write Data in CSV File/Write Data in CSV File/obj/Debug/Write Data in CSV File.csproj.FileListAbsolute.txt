@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Write Data in CSV File\Write Data in CSV File\bin\Debug\Write Data in CSV File.exe.config
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Write Data in CSV File\Write Data in CSV File\bin\Debug\Write Data in CSV File.exe
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Write Data in CSV File\Write Data in CSV File\bin\Debug\Write Data in CSV File.pdb
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Write Data in CSV File\Write Data in CSV File\obj\Debug\Write Data in CSV File.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Write Data in CSV File\Write Data in CSV File\obj\Debug\Write Data in CSV File.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Write Data in CSV File\Write Data in CSV File\obj\Debug\Write Data in CSV File.exe
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Write Data in CSV File\Write Data in CSV File\obj\Debug\Write Data in CSV File.pdb

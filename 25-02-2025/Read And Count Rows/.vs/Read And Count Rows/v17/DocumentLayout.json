@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Read And Count Rows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71D35A94-D245-411C-915C-1A18602D5BD4}|Read And Count Rows\\Read And Count Rows.csproj|c:\\users\\asus\\onedrive\\desktop\\25-02-2025\\read and count rows\\read and count rows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D35A94-D245-411C-915C-1A18602D5BD4}|Read And Count Rows\\Read And Count Rows.csproj|solutionrelative:read and count rows\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Read And Count Rows\\Read And Count Rows\\Program.cs",
+              "RelativeDocumentMoniker": "Read And Count Rows\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Read And Count Rows\\Read And Count Rows\\Program.cs",
+              "RelativeToolTip": "Read And Count Rows\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:32:52.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

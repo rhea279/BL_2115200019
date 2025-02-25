@@ -1,0 +1,6 @@
+ID,Name,Age,Marks
+101,John Doe,20,85.5
+102,Jane Smith,22,78.2
+103,Robert Brown,19,92.0
+104,Emily Johnson,21,67.8
+105,Michael Lee,23,88.9

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Encrypting And Decrypting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CAD91-220B-4DAD-B9AF-C7D11916D6B1}|Encrypting And Decrypting\\Encrypting And Decrypting.csproj|c:\\users\\asus\\onedrive\\desktop\\25-02-2025\\encrypting and decrypting\\encrypting and decrypting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CAD91-220B-4DAD-B9AF-C7D11916D6B1}|Encrypting And Decrypting\\Encrypting And Decrypting.csproj|solutionrelative:encrypting and decrypting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Encrypting And Decrypting\\Encrypting And Decrypting\\Program.cs",
+              "RelativeDocumentMoniker": "Encrypting And Decrypting\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Encrypting And Decrypting\\Encrypting And Decrypting\\Program.cs",
+              "RelativeToolTip": "Encrypting And Decrypting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:28:09.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

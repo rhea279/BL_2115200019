@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Read And Count Rows\Read And Count Rows\bin\Debug\Read And Count Rows.exe.config
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Read And Count Rows\Read And Count Rows\bin\Debug\Read And Count Rows.exe
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Read And Count Rows\Read And Count Rows\bin\Debug\Read And Count Rows.pdb
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Read And Count Rows\Read And Count Rows\obj\Debug\Read And Count Rows.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Read And Count Rows\Read And Count Rows\obj\Debug\Read And Count Rows.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Read And Count Rows\Read And Count Rows\obj\Debug\Read And Count Rows.exe
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Read And Count Rows\Read And Count Rows\obj\Debug\Read And Count Rows.pdb

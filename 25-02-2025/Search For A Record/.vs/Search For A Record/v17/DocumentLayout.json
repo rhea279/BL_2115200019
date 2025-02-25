@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Search For A Record\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A175EA3D-9AA4-480B-A7ED-19129187A1A3}|Search For A Record\\Search For A Record.csproj|c:\\users\\asus\\onedrive\\desktop\\25-02-2025\\search for a record\\search for a record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A175EA3D-9AA4-480B-A7ED-19129187A1A3}|Search For A Record\\Search For A Record.csproj|solutionrelative:search for a record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Search For A Record\\Search For A Record\\Program.cs",
+              "RelativeDocumentMoniker": "Search For A Record\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\25-02-2025\\Search For A Record\\Search For A Record\\Program.cs*",
+              "RelativeToolTip": "Search For A Record\\Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:48:15.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

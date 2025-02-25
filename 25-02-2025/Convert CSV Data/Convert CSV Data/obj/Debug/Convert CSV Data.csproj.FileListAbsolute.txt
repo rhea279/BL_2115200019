@@ -1,0 +1,7 @@
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Convert CSV Data\Convert CSV Data\bin\Debug\Convert CSV Data.exe.config
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Convert CSV Data\Convert CSV Data\bin\Debug\Convert CSV Data.exe
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Convert CSV Data\Convert CSV Data\bin\Debug\Convert CSV Data.pdb
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Convert CSV Data\Convert CSV Data\obj\Debug\Convert CSV Data.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Convert CSV Data\Convert CSV Data\obj\Debug\Convert CSV Data.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Convert CSV Data\Convert CSV Data\obj\Debug\Convert CSV Data.exe
+C:\Users\asus\OneDrive\Desktop\25-02-2025\Convert CSV Data\Convert CSV Data\obj\Debug\Convert CSV Data.pdb
