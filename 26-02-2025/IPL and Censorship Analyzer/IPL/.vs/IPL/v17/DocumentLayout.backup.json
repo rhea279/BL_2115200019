@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\IPL and Censorship Analyzer\\IPL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E82A280D-6652-4F68-B238-608A1F75823E}|IPL\\IPL.csproj|c:\\users\\asus\\onedrive\\desktop\\26-02-2025\\ipl and censorship analyzer\\ipl\\ipl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82A280D-6652-4F68-B238-608A1F75823E}|IPL\\IPL.csproj|solutionrelative:ipl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\IPL and Censorship Analyzer\\IPL\\IPL\\Program.cs",
+              "RelativeDocumentMoniker": "IPL\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\IPL and Censorship Analyzer\\IPL\\IPL\\Program.cs",
+              "RelativeToolTip": "IPL\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:08:51.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\Hands On Questions\\Merge Two JSON FIles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAFA30-47D5-4CA8-B467-EC6B7C7EF14C}|Merge Two JSON FIles\\Merge Two JSON FIles.csproj|c:\\users\\asus\\onedrive\\desktop\\26-02-2025\\hands on questions\\merge two json files\\merge two json files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FAFA30-47D5-4CA8-B467-EC6B7C7EF14C}|Merge Two JSON FIles\\Merge Two JSON FIles.csproj|solutionrelative:merge two json files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\Hands On Questions\\Merge Two JSON FIles\\Merge Two JSON FIles\\Program.cs",
+              "RelativeDocumentMoniker": "Merge Two JSON FIles\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\Hands On Questions\\Merge Two JSON FIles\\Merge Two JSON FIles\\Program.cs",
+              "RelativeToolTip": "Merge Two JSON FIles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:00:26.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

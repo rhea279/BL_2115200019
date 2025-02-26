@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\Hands On Questions\\Convert a list of C# objects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8BE2B8-3D9B-42EB-BA05-55DED23AEEA3}|Convert a list of C# objects\\Convert a list of C# objects.csproj|c:\\users\\asus\\onedrive\\desktop\\26-02-2025\\hands on questions\\convert a list of c# objects\\convert a list of c# objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8BE2B8-3D9B-42EB-BA05-55DED23AEEA3}|Convert a list of C# objects\\Convert a list of C# objects.csproj|solutionrelative:convert a list of c# objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\Hands On Questions\\Convert a list of C# objects\\Convert a list of C# objects\\Program.cs",
+              "RelativeDocumentMoniker": "Convert a list of C# objects\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\26-02-2025\\Hands On Questions\\Convert a list of C# objects\\Convert a list of C# objects\\Program.cs",
+              "RelativeToolTip": "Convert a list of C# objects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:57:36.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

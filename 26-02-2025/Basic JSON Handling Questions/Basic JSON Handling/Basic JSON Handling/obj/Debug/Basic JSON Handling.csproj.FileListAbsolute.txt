@@ -1,0 +1,2 @@
+C:\Users\asus\OneDrive\Desktop\26-02-2025\Basic JSON Handling\Basic JSON Handling\obj\Debug\Basic JSON Handling.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\26-02-2025\Basic JSON Handling\Basic JSON Handling\obj\Debug\Basic JSON Handling.csproj.CoreCompileInputs.cache
