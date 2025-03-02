@@ -27,3 +27,4 @@
 - **Data Handling**
 - **JSON Data**
 - **WebAPI**
+- **ORM-EntityFrameworkCore**
