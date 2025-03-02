@@ -1,0 +1,30 @@
+2025-03-02 22:59:22.0374 | INFO | HelloApp.Program | Application is starting... 
+2025-03-02 22:59:24.3776 | INFO | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7054 
+2025-03-02 22:59:24.3776 | INFO | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5170 
+2025-03-02 22:59:24.4994 | INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. 
+2025-03-02 22:59:24.4994 | INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development 
+2025-03-02 22:59:24.4994 | INFO | Microsoft.Hosting.Lifetime | Content root path: C:\Users\asus\OneDrive\Desktop\First Hello App\HelloApp\ 
+2025-03-02 22:59:25.8089 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/Swagger/index.html - - 
+2025-03-02 22:59:26.8707 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/Swagger/index.html - - - 200 - text/html;charset=utf-8 1063.6922ms 
+2025-03-02 22:59:26.9731 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/Swagger/swagger-ui-standalone-preset.js - - 
+2025-03-02 22:59:26.9731 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/Swagger/swagger-ui.css - - 
+2025-03-02 22:59:26.9731 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/Swagger/index.js - - 
+2025-03-02 22:59:26.9731 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/Swagger/index.css - - 
+2025-03-02 22:59:26.9731 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/_vs/browserLink - - 
+2025-03-02 22:59:26.9731 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-02 22:59:26.9731 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/Swagger/swagger-ui-bundle.js - - 
+2025-03-02 22:59:27.0057 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 38.0375ms 
+2025-03-02 22:59:27.0243 | INFO | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | The file /swagger-ui.css was not modified 
+2025-03-02 22:59:27.0243 | INFO | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | The file /index.css was not modified 
+2025-03-02 22:59:27.0243 | INFO | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | The file /swagger-ui-standalone-preset.js was not modified 
+2025-03-02 22:59:27.0243 | INFO | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | The file /swagger-ui-bundle.js was not modified 
+2025-03-02 22:59:27.0345 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/_framework/aspnetcore-browser-refresh.js - - - 200 12348 application/javascript;+charset=utf-8 61.0181ms 
+2025-03-02 22:59:27.0345 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/Swagger/swagger-ui.css - - - 304 - text/css 66.3060ms 
+2025-03-02 22:59:27.0345 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/Swagger/swagger-ui-standalone-preset.js - - - 304 - application/javascript 66.5708ms 
+2025-03-02 22:59:27.0345 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/Swagger/index.css - - - 304 - text/css 66.5546ms 
+2025-03-02 22:59:27.0566 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/Swagger/swagger-ui-bundle.js - - - 304 - application/javascript 77.6051ms 
+2025-03-02 22:59:27.2274 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 253.8360ms 
+2025-03-02 22:59:27.4360 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/Swagger/v1/swagger.json - - 
+2025-03-02 22:59:27.4553 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 19.2809ms 
+2025-03-02 22:59:42.8890 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7054/logs/app.log - - 
+2025-03-02 22:59:42.9356 | INFO | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7054/logs/app.log - - - 404 0 - 46.8578ms 

@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32BA4BBB-9ACC-43B4-A7CA-0214AFA9FD99}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\controllers\\helloappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:controllers\\helloappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D48776-E3C0-4EA4-A96A-F72BE890533E}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\businesslayer\\service\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BA4BBB-9ACC-43B4-A7CA-0214AFA9FD99}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BA4BBB-9ACC-43B4-A7CA-0214AFA9FD99}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\repositorylayer\\migrations\\20250301094025_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BA4BBB-9ACC-43B4-A7CA-0214AFA9FD99}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\repositorylayer\\migrations\\helloappcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BA4BBB-9ACC-43B4-A7CA-0214AFA9FD99}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\repositorylayer\\context\\helloappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BA4BBB-9ACC-43B4-A7CA-0214AFA9FD99}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BA4BBB-9ACC-43B4-A7CA-0214AFA9FD99}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\repositorylayer\\interface\\iregistrationhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D48776-E3C0-4EA4-A96A-F72BE890533E}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\businesslayer\\interface\\iregistrationhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D48776-E3C0-4EA4-A96A-F72BE890533E}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\helloapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:helloapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|c:\\users\\asus\\onedrive\\desktop\\first hello app\\helloapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6B96D5-4880-4260-A930-9A60D53AA4F5}|HelloApp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\OneDrive\\Desktop\\BusinessLayer\\BusinessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\OneDrive\\Desktop\\RepositoryLayer\\RepositoryLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\OneDrive\\Desktop\\RepositoryLayer\\Service\\RegisterHelloRL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T17:23:21.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:14:04.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:13:59.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloAppController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\Controllers\\HelloAppController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloAppController.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\Controllers\\HelloAppController.cs",
+              "RelativeToolTip": "Controllers\\HelloAppController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T06:16:22.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:34:54.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T05:56:01.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T08:32:26.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T17:18:16.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T09:17:14.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HelloApp.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\HelloApp.csproj",
+              "RelativeDocumentMoniker": "HelloApp.csproj",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\HelloApp.csproj",
+              "RelativeToolTip": "HelloApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T08:53:56.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T06:21:53.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HelloAppContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Migrations\\HelloAppContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Migrations\\HelloAppContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Migrations\\HelloAppContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Migrations\\HelloAppContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:43:26.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:00:42.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250301094025_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Migrations\\20250301094025_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Migrations\\20250301094025_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Migrations\\20250301094025_InitialMigration.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Migrations\\20250301094025_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:40:26.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRegistrationHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Interface\\IRegistrationHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IRegistrationHelloRL.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Interface\\IRegistrationHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IRegistrationHelloRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:33:38.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HelloAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:10:48.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRegistrationHelloBL.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\BusinessLayer\\Interface\\IRegistrationHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interface\\IRegistrationHelloBL.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\BusinessLayer\\Interface\\IRegistrationHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interface\\IRegistrationHelloBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:30:03.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T08:29:37.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HelloApp",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\HelloApp.csproj",
+              "RelativeDocumentMoniker": "HelloApp.csproj",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\HelloApp.csproj",
+              "RelativeToolTip": "HelloApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T06:42:07.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\First Hello App\\HelloApp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:20:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T10:44:51.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T10:35:23.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\OneDrive\\Desktop\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\asus\\OneDrive\\Desktop\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:32:41.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
